@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá! Sou Pedro Dantas👋
+#### Bem vindo ao meu mundo 🧑‍💻!
 
-<!--
-**P3sTs/P3sts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/dantas_dts?igshid=1o9uhlz6bqs4s)](https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s) 
+[![Gmail Badge](https://img.shields.io/badge/-pdantas950@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdantas950@gmail.com)](mailto:pdantas950@gmail.com)
 
-Here are some ideas to get you started:
+### Sou um estudante em Desenvolvimento Backend em São Jose dos Campos - SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
+- 👨‍💻 &nbsp; Atualmente trabalho na [Microcity Computadores e Sistemas Ltda](http://microcity.com.br/) como Suporte em TI
+- 📖 &nbsp; Estudando e praticando sobre Backend Java e Python
+
+**💻 Experiências:**
+ | Flutter 💙 | Java🧡 | Python💜 |Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
+
+
+<div>
+  <a href="https://github.com/P3sTs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3sTs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ </a>
