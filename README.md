@@ -1,5 +1,5 @@
-## Olá! Sou Pedro Dantas 👋
-#### Bem vindo ao meus projetos 🧑‍💻!
+## Olá! Sou No_dts 👋
+#### Bem vindo ao meus projetos, espero que te ajuda a se inspirar 🧑‍💻!
 
  
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/dantas_dts?igshid=1o9uhlz6bqs4s)](https://instagram.com/dantas_dts?igshid=1o9uhlz6bqs4s) 
@@ -8,7 +8,7 @@
 ### Sou um estudante em Desenvolvimento Backend Python em São José dos Campos - SP.
 
 **💻 Experiências:**
- | Python 🦋|
+ | Python 🦋|HTML 🚌|PHP 🔑
 
 
 <div>
